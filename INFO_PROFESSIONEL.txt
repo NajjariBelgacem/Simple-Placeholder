@@ -1,1 +1,2 @@
-Profession: Developpeur Java
+Profession: Ingénieur
+Société: PCT
